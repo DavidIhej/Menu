@@ -1,0 +1,169 @@
+html {
+  height: 100%;
+  width: 100%;
+   background-image: radial-gradient(#bdadad, #ffecd4);
+  font-family: 'CatCafe', sans-serif;
+}
+
+
+.menu-option {
+			display: inline-block;
+			margin: 10px;
+			text-align: center;
+			vertical-align: top;
+			width: 200px;
+  
+		}
+		.menu-option img {
+			max-width: 100%;
+			height: auto;
+		}
+		.menu-option p {
+			font-size: 1.2em;
+			margin-top: 5px;
+		}
+
+
+.side-option {
+			display: inline-block;
+			margin: 10px;
+			text-align: center;
+			vertical-align: top;
+			width: 200px;
+		}
+		.menu-option img {
+			max-width: 100%;
+			height: 180px;
+		}
+		.menu-option p {
+			font-size: 1.2em;
+			margin-top: 5px;
+		}
+
+.side1{
+  height:85%;
+  width:85%;
+}
+
+.side2{
+  height:47%;
+  width:75%;
+}
+
+.side3{
+  height:80%;
+  width:80%;
+}
+
+.side4{
+  height:70%;
+  width:70%;
+}
+.side5{
+  height:70%;
+  width:70%;
+}
+
+.drink-option {
+			display: inline-block;
+			margin: 10px;
+			text-align: center;
+			vertical-align: top;
+			width: 200px;
+		}
+		.drink-option img {
+			max-width: 100%;
+			height: auto;
+		}
+		.drink-option p {
+			font-size: 1.2em;
+			margin-top: 5px;
+		}
+
+
+
+.button1{
+  text-align: right;
+  font-size:20px;
+  text-decoration:none;
+}
+
+.button2{
+  text-align: right;
+  font-size:20px;
+}
+
+.button1:hover{
+  text-decoration:underline; /* Adds underline when hover */
+}
+
+.button2:hover{
+  text-decoration:underline;
+}
+
+
+.text1,.text2,.text3,.text4,.text5,.text6,.text7,.text8,.text9,.text10,.text11{
+  display:none;
+}
+
+.menu1,.menu2,.menu3{
+  display:none;
+}
+
+
+.side1,.side2,.side3,.side4,.side5{
+  display:none;
+}
+
+.slidetitle{
+  display:none;
+}
+
+.special{
+  display:none;
+}
+
+.Eating{
+  text-align: center;
+}
+
+.video{
+  text-align:center;
+}
+
+.button3{
+  text-align: right;
+  font-size:20px;
+  
+}
+.button3:hover{
+  text-decoration:underline; 
+}
+
+
+.about{
+  display:none;
+  font-size:30px;
+}
+
+
+img {
+  transition: transform 0.3s ease-in-out; /* add transition effect */
+  
+}
+
+
+img:hover {
+  transform: scale(1.3); /* increase size by any% */
+}
+
+
+
+.menu1,.menu2,.menu3,.side1,.side2,.side3,.side4,.side5{
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.5); /* makes a drop shadow */
+  
+}
+
+
+
+
